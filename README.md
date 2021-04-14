@@ -34,10 +34,12 @@
 </ul>
 
 ### References:
+- [CS131 Computer Vision: Foundations and Applications @ Stanford, Fall 2020](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
+- [CSCI 1430: Introduction to Computer Vision @ Brown，Spring 2021](https://browncsci1430.github.io/webpage/index.html)
+
+
 <ul>
-<li><b>[CV] CS131 Computer Vision: Foundations and Applications @ Stanford, 2020.</b></li>
 <li>[CV, Advance] CS231A: Computer Vision, From 3D Reconstruction to Recognition @ Stanford by Silvio Savarese</li>
-<li><b>[CV] CSCI 1430: Introduction to Computer Vision @ Brown，2021</b></li>
 <li><b>CSE152: Introduction to Computer Vision by Hao Su, 2018</b></li>
 <li><b>[DP]: CS231n: Convolutional Neural Networks for Visual Recognition @ Stanford by Feifei Li</b></li>
 <li>[DP]: CS 330: Deep Multi-Task and Meta Learning @ Stanford</li>
