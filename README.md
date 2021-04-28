@@ -9,16 +9,37 @@
 - [00_introduction](to be updated)
 
 ## 2. Assignments
-- [cs131 @ stanford](http://vision.stanford.edu/teaching/cs131_fall2021/assignments.html)
+[cs131 @ stanford](http://vision.stanford.edu/teaching/cs131_fall2021/assignments.html):
+- Homework 0 (Basics)
+- Homework 1 (Filters – image enhancement)
+- Homework 2 (Edges – smart car lane detection)
+- Homework 3 (Panorama - image stitching)
+- Homework 4 (Segmentation - clustering)
+- Homework 5 (Resizing - seam carving)
+- Homework 6 (Object detection)
+- Homework 7 (Tracking, optical flow)
+- Homework 8 (Cameras)
 
 ## 3. Reading Topics
+### Filtering
+- Deep Bilateral Learning for Real-Time Image Enhancement, sig17
+- Deep Texture and Structure Aware Filtering Network for Image Smoothing, eccv18
+- Learning Explicit Smoothing Kernels for Joint Image Filtering, pg19
+
+### edge detectionn
+- Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection, 2020
+- 
 ### Implicit neural representations
 <!-- - Implicit Geometric Regularization for Learning Shapes, 2020, Yaron Lipman -->
 - [SIREN2020], Implicit Neural Representations with Periodic Activation Functions, nips 2020
-<!-- - Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction 2020
-- MetaSDF: Meta-learning Signed Distance Functions, 2020 -->
+- Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction 2020
+- MetaSDF: Meta-learning Signed Distance Functions, 2020
+
+### Segmentation
+- One-Shot Video Object Segmentation, cvpr17
 
 ### Object detection
+
 ### Tracking
 
 ## 4. Resources
