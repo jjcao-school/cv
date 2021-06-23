@@ -46,13 +46,12 @@
 ### Suggestions [->](https://github.com/jjcao-school/common/tree/main/for_students)
 
 ### Books 
-<ul>
-<li><b>[FP] D. A. Forsyth and J. Ponce. Computer Vision: A Modern Approach (2nd Edition), 2011.</b></li>
-<li><b>[RS] Richard Szeliski. Computer Vision: Algorithms and Applications, 2010.</b></li>
-<li>[GBC] Ian Goodfellow and Yoshua Bengio and Aaron Courville, Deep Learning, by MIT, online.</li>
-<li>Concise Computer Vision by Reinhard Klette</li>
-<li>[HZ] R. Hartley and A. Zisserman. Multiple View Geometry in Computer Vision, 2003</li>
-</ul>
+- [FP] D. A. Forsyth and J. Ponce. Computer Vision: A Modern Approach (2nd Edition), 2011.
+- [RS] Richard Szeliski. Computer Vision: Algorithms and Applications, 2010.
+- [GBC] Ian Goodfellow and Yoshua Bengio and Aaron Courville, Deep Learning, by MIT, online
+- Concise Computer Vision by Reinhard Klette
+- [Probabilistic Machine Learning](https://github.com/probml/pml-book): An Introduction 2020, Probabilistic Machine Learning: Advanced Topics 2021
+- [HZ] R. Hartley and A. Zisserman. Multiple View Geometry in Computer Vision, 2003
 
 ### References:
 - [CS131 Computer Vision: Foundations and Applications @ Stanford, Fall 2020](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
@@ -61,9 +60,7 @@
 
 - [CV, Advance] [CS231A: Computer Vision, From 3D Reconstruction to Recognition @ Stanford by Silvio Savarese, 2021](https://web.stanford.edu/class/cs231a/syllabus.html)
   
-<ul>
-<li><b>CSE152: Introduction to Computer Vision by Hao Su, 2018</b></li>
-<li><b>[DP]: CS231n: Convolutional Neural Networks for Visual Recognition @ Stanford by Feifei Li</b></li>
-<li>[DP]: CS 330: Deep Multi-Task and Meta Learning @ Stanford</li>
-<li>[DP]: CS 230: Deep Learning @ Stanford by Prof. Andrew Ng and Kian Katanforoosh</li>
-</ul>
+- CSE152: Introduction to Computer Vision by Hao Su, 2018
+- [DP]: CS231n: Convolutional Neural Networks for Visual Recognition @ Stanford by Feifei Li
+- [DP]: CS 330: Deep Multi-Task and Meta Learning @ Stanford
+- [DP]: CS 230: Deep Learning @ Stanford by Prof. Andrew Ng and Kian Katanforoosh
