@@ -1,12 +1,16 @@
-# Computer Vision 2021 (DLUT)
+# Computer Vision 2022 (DLUT)
 ## 0. Introduction
 
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
-- Lectures: Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.
+- Lectures: “Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.”???
 - Textbook: There is no requirement to buy a textbook.
 
-## 1. Course Notes
-- [00_introduction](to be updated)
+## 1. Course Notes (to be updated)
+- Introduction, slider, 
+- Reconstrution 1
+  - Active Illumination Methods
+    - Time of Flight Method, slider, [video](https://fpcv.cs.columbia.edu/)
+
 
 ## 2. Assignments
 [cs131 @ stanford](http://vision.stanford.edu/teaching/cs131_fall2021/assignments.html):
