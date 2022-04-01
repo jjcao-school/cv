@@ -2,14 +2,20 @@
 ## 0. Introduction
 
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
-- Lectures: “Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.”???
+<!-- - Lectures: “Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.”??? -->
 - Textbook: There is no requirement to buy a textbook.
 
 ## 1. Course Notes (to be updated)
+### 1.1 Image Formation and Filtering
 - Introduction, slider, 
-- Reconstrution 1
-  - Active Illumination Methods
-    - Time of Flight Method, slider, [video](https://fpcv.cs.columbia.edu/)
+### 1.2 Feature Detection and Matching
+### 1.3 Machine Learning Crash Course
+### 1.4 Recognition_Detection
+### 1.5 Motion
+### 1.6 Camera
+### 1.7 Reconstrution 1
+- Active Illumination Methods
+  - Time of Flight Method, slider, [video](https://fpcv.cs.columbia.edu/)
 
 
 ## 2. Assignments
