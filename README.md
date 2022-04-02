@@ -11,9 +11,14 @@
 ### 1.2 Feature Detection and Matching
 ### 1.3 Machine Learning Crash Course
 ### 1.4 Recognition_Detection
+- Object Detection
+- Human Pose Detection
 ### 1.5 Motion
 ### 1.6 Camera
-### 1.7 Reconstrution 1
+### 1.7 Robotics (CSE291-G00 - Spring 2020)
+- Reinforcement learning in Robotics
+- Physical Simulation in Robotics
+### 1.9 Reconstrution 1
 - Active Illumination Methods
   - Time of Flight Method, slider, [video](https://fpcv.cs.columbia.edu/)
 
@@ -56,21 +61,25 @@
 ### Suggestions [->](https://github.com/jjcao-school/common/tree/main/for_students)
 
 ### Books 
-- [FP] D. A. Forsyth and J. Ponce. Computer Vision: A Modern Approach (2nd Edition), 2011.
-- [RS] Richard Szeliski. Computer Vision: Algorithms and Applications, 2010.
+- [RS] Computer Vision: Algorithms and Applications, 2nd ed. @2020 Richard Sezeliski, Facebook.
+- [Probabilistic Machine Learning](https://github.com/probml/pml-book): An Introduction 2020, 
 - [GBC] Ian Goodfellow and Yoshua Bengio and Aaron Courville, Deep Learning, by MIT, online
+- Probabilistic Machine Learning: Advanced Topics 2021
+- 
+- [FP] D. A. Forsyth and J. Ponce. Computer Vision: A Modern Approach (2nd Edition), 2011.
 - Concise Computer Vision by Reinhard Klette
-- [Probabilistic Machine Learning](https://github.com/probml/pml-book): An Introduction 2020, Probabilistic Machine Learning: Advanced Topics 2021
 - [HZ] R. Hartley and A. Zisserman. Multiple View Geometry in Computer Vision, 2003
 
 ### References:
-- [CS131 Computer Vision: Foundations and Applications @ Stanford, Fall 2020](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
-- [CSCI 1430: Introduction to Computer Vision @ Brown，Spring 2021](https://browncsci1430.github.io/webpage/index.html)
-
+- [CSCI 1430: Introduction to Computer Vision @ Brown，Spring 2022](https://browncsci1430.github.io/webpage/index.html)
+- [CSE152: Introduction to Computer Vision by Hao Su, Fall 2021](https://haosulab.github.io/intro-cv/FA21/schedule.html)
 
 - [CV, Advance] [CS231A: Computer Vision, From 3D Reconstruction to Recognition @ Stanford by Silvio Savarese, 2021](https://web.stanford.edu/class/cs231a/syllabus.html)
   
-- CSE152: Introduction to Computer Vision by Hao Su, 2018
 - [DP]: CS231n: Convolutional Neural Networks for Visual Recognition @ Stanford by Feifei Li
+- [CSE291-G00 - Spring 2020 Deep Learning for Semantics, Geometry, and Physics in Robotics](https://robotmlcourse.github.io/SP20/schedule.html)
+- [UCL Course on RL](https://www.davidsilver.uk/teaching/)
 - [DP]: CS 330: Deep Multi-Task and Meta Learning @ Stanford
 - [DP]: CS 230: Deep Learning @ Stanford by Prof. Andrew Ng and Kian Katanforoosh
+  
+- [CS131 Computer Vision: Foundations and Applications @ Stanford, Fall 2021](http://vision.stanford.edu/teaching/cs131_fall2122/), not public avaliable now.
