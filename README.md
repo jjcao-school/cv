@@ -75,6 +75,7 @@
 - [CSE152: Introduction to Computer Vision by Hao Su, Fall 2021](https://haosulab.github.io/intro-cv/FA21/schedule.html)
 
 - [CV, Advance] [CS231A: Computer Vision, From 3D Reconstruction to Recognition @ Stanford by Silvio Savarese, 2021](https://web.stanford.edu/class/cs231a/syllabus.html)
+- [CV, Advance, DP]EE290T Fall 2019 - University of California, Berkeley
   
 - [DP]: CS231n: Convolutional Neural Networks for Visual Recognition @ Stanford by Feifei Li
 - [CSE291-G00 - Spring 2020 Deep Learning for Semantics, Geometry, and Physics in Robotics](https://robotmlcourse.github.io/SP20/schedule.html)
