@@ -1,13 +1,16 @@
-# Computer Vision 2022 (DLUT)
-## 0. Introduction
+# Computer Vision 2023 (DLUT)
 
+## 0. Introduction
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
 <!-- - Lectures: “Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.”??? -->
 - Textbook: There is no requirement to buy a textbook.
 
-## 1. Course Notes (to be updated)
-### 1.1 Image Formation and Filtering
-- Introduction, slider, 
+## 1. (Course Notes)(https://jjcao.notion.site/cv2023-181d1e98d9744ebeba914e10e92c2ba7)
+### 1.1 Introduction
+### 1.2 Color & light
+### 1.3 Camera
+### 1.4 Image Formation and Filtering
+
 ### 1.2 Feature Detection and Matching
 ### 1.3 Machine Learning Crash Course
 ### 1.4 Recognition_Detection
