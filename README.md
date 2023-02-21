@@ -5,7 +5,7 @@
 <!-- - Lectures: “Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.”??? -->
 - Textbook: There is no requirement to buy a textbook.
 
-## 1. (Course Notes)(https://jjcao.notion.site/cv2023-181d1e98d9744ebeba914e10e92c2ba7)
+## 1. [Course Notes](https://jjcao.notion.site/cv2023-181d1e98d9744ebeba914e10e92c2ba7)
 ### 1.1 Introduction
 ### 1.2 Color & light
 ### 1.3 Camera
