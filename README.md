@@ -1,8 +1,9 @@
-# Computer Vision 2023 (DLUT)
+# Computer Vision 2024 (DLUT)
 
 ## 0. Introduction
-- Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
-<!-- - Lectures: “Tuesday & Thursdays at 18:00 - 18:45, 18:55 - 19:40. 研教楼312.”??? -->
+- Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn;
+- Time: Monday & Wednesday at 8:00-8:45, 8:50-9:35. 研教楼412.
+<!-- - Time: Monday & Wednesday at 8:00-8:45, 8:50-9:35. 研教楼412. -->
 - Textbook: There is no requirement to buy a textbook.
 
 ## 1. [Course Notes](https://jjcao.notion.site/cv2023-181d1e98d9744ebeba914e10e92c2ba7)
