@@ -2,8 +2,8 @@
 
 ## 0. Introduction
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn;
-- Time: Monday & Wednesday at 8:00-8:45, 8:50-9:35. 研教楼412.
-<!-- - Time: Monday & Wednesday at 8:00-8:45, 8:50-9:35. 研教楼412. -->
+- Time: 周二 & 周四 at 8:00-8:45, 8:50-9:35. 综合教学1号楼362.
+
 - Textbook: There is no requirement to buy a textbook.
 
 ## 1. [Course Notes](https://jjcao.notion.site/cv2023-181d1e98d9744ebeba914e10e92c2ba7)
