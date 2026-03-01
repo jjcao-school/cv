@@ -1,4 +1,4 @@
-# Computer Vision 2023 (DLUT)
+# Computer Vision 2026 (DLUT)
 
 ## 0. Introduction
 - Course Instructor: [Junjie Cao](http://jjcao.github.io/); Email: jjcao at dlut.edu.cn; 
