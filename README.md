@@ -8,11 +8,17 @@
 
 ## 1. [Course Notes](https://jjcao.notion.site/cv2023-181d1e98d9744ebeba914e10e92c2ba7)
 ### 1.1 Introduction
-### 1.2 Color & light
-### 1.3 Camera
-### 1.4 Image Formation and Filtering
+### 1.2 Imaging (2 Raster Images + 3 Color)
+### 1.3 Image Processing
+#### 1.3.1 Changing pixel values
+#### 1.3.2 Filtering over neighborhoods
+#### 1.3.3 Thinking in Frequency
+#### 1.3.4 Image Filtering 2
 
-### 1.2 Feature Detection and Matching
+### to be updated ...
+
+
+### 2.1 Feature Detection and Matching
 ### 1.3 Machine Learning Crash Course
 ### 1.4 Recognition_Detection
 - Object Detection
