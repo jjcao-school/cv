@@ -14,9 +14,10 @@
 #### 1.3.2 Filtering over neighborhoods
 #### 1.3.3 Thinking in Frequency
 #### 1.3.4 Image Filtering 2
+#### 1.3.5 Moving image locations
+#### 1.3.6 Combining images
 
-### to be updated ...
-
+## to be updated ...
 
 ### 2.1 Feature Detection and Matching
 ### 1.3 Machine Learning Crash Course
